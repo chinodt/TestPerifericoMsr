@@ -1,0 +1,17 @@
+C:\Aplicaciones\DotNet\TestMagneticBand\TestMagneticBand\TestMagneticBand\bin\Debug\TestMagneticBand.exe.config
+C:\Aplicaciones\DotNet\TestMagneticBand\TestMagneticBand\TestMagneticBand\bin\Debug\TestMagneticBand.exe
+C:\Aplicaciones\DotNet\TestMagneticBand\TestMagneticBand\TestMagneticBand\bin\Debug\TestMagneticBand.pdb
+C:\Aplicaciones\DotNet\TestMagneticBand\TestMagneticBand\TestMagneticBand\obj\Debug\TestMagneticBand.csprojAssemblyReference.cache
+C:\Aplicaciones\DotNet\TestMagneticBand\TestMagneticBand\TestMagneticBand\obj\Debug\Interop.OposMSR_CCO.dll
+C:\Aplicaciones\DotNet\TestMagneticBand\TestMagneticBand\TestMagneticBand\obj\Debug\TestMagneticBand.csproj.ResolveComReference.cache
+C:\Aplicaciones\DotNet\TestMagneticBand\TestMagneticBand\TestMagneticBand\obj\Debug\TestMagneticBand.Form1.resources
+C:\Aplicaciones\DotNet\TestMagneticBand\TestMagneticBand\TestMagneticBand\obj\Debug\TestMagneticBand.Properties.Resources.resources
+C:\Aplicaciones\DotNet\TestMagneticBand\TestMagneticBand\TestMagneticBand\obj\Debug\TestMagneticBand.csproj.GenerateResource.cache
+C:\Aplicaciones\DotNet\TestMagneticBand\TestMagneticBand\TestMagneticBand\obj\Debug\TestMagneticBand.csproj.CoreCompileInputs.cache
+C:\Aplicaciones\DotNet\TestMagneticBand\TestMagneticBand\TestMagneticBand\obj\Debug\TestMagneticBand.exe
+C:\Aplicaciones\DotNet\TestMagneticBand\TestMagneticBand\TestMagneticBand\obj\Debug\TestMagneticBand.pdb
+C:\Aplicaciones\DotNet\TestMagneticBand\TestMagneticBand\TestMagneticBand\bin\Debug\Microsoft.PointOfService.ControlBase.dll
+C:\Aplicaciones\DotNet\TestMagneticBand\TestMagneticBand\TestMagneticBand\bin\Debug\Microsoft.PointOfService.dll
+C:\Aplicaciones\DotNet\TestMagneticBand\TestMagneticBand\TestMagneticBand\bin\Debug\Microsoft.PointOfService.xml
+C:\Aplicaciones\DotNet\TestMagneticBand\TestMagneticBand\TestMagneticBand\bin\Debug\Microsoft.PointOfService.ControlBase.xml
+C:\Aplicaciones\DotNet\TestMagneticBand\TestMagneticBand\TestMagneticBand\obj\Debug\TestMagneticBand.csproj.CopyComplete
